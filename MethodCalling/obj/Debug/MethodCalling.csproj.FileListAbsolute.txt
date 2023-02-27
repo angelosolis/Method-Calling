@@ -1,0 +1,8 @@
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\bin\Debug\MethodCalling.exe.config
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\bin\Debug\MethodCalling.exe
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\bin\Debug\MethodCalling.pdb
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\obj\Debug\MethodCalling.csproj.AssemblyReference.cache
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\obj\Debug\MethodCalling.csproj.SuggestedBindingRedirects.cache
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\obj\Debug\MethodCalling.csproj.CoreCompileInputs.cache
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\obj\Debug\MethodCalling.exe
+C:\Users\WW540\source\repos\MethodCalling\MethodCalling\obj\Debug\MethodCalling.pdb
